@@ -42,14 +42,6 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="Android Studio"></a>
 </p>
 
-### - Stats ⚡️
-<table style="border:none;margin:0 auto">
-  <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
-  </tr>
-</table>
-<br>
-
 ## - Find me around the web 🌎
 <p align="center">
   <a href="mailto:contact@proxzima.dev"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
