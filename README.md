@@ -50,7 +50,7 @@
   <a target="_blank" href="https://twitter.com/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
   <a target="_blank" href="https://discordapp.com/user/1144984031323238533"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="PROxZIMA#7272"/></a>
   <a target="_blank" href="https://t.me/supernova21635"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale"/></a>
-  <a target="_blank" href="https://marketplace.visualstudio.com/publishers/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/marketplace.svg" alt="PROxZIMA"/></a>
+  <a target="_blank" href="https://marketplace.visualstudio.com/publishers/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/whatsapp.svg" alt="PROxZIMA"/></a>
 </p>
 
 <p align="center">
