@@ -46,11 +46,10 @@
 <p align="center">
   <a href="ka.tahara.dev@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
   <a target="_blank" href="https://www.linkedin.com/in/tahara-kazuki-8306a32a8/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
-  <a target="_blank" href="https://www.instagram.com/pro_x_zima/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima"/></a>
-  <a target="_blank" href="https://twitter.com/pro_x_zima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
-<!--   <a target="_blank" href="https://www.reddit.com/user/PratikPingale"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/reddit.svg" alt="PratikPingale"/></a> -->
-  <a target="_blank" href="https://discordapp.com/users/422274155509972992"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="PROxZIMA#7272"/></a>
-  <a target="_blank" href="https://t.me/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale"/></a>
+  <a target="_blank" href="https://www.instagram.com/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima"/></a>
+  <a target="_blank" href="https://twitter.com/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
+  <a target="_blank" href="https://discordapp.com/user/1167728149430280243"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="PROxZIMA#7272"/></a>
+  <a target="_blank" href="https://t.me/@supernova21635"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale"/></a>
   <a target="_blank" href="https://marketplace.visualstudio.com/publishers/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/marketplace.svg" alt="PROxZIMA"/></a>
 </p>
 
