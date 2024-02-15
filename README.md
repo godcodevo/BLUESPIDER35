@@ -37,7 +37,6 @@
 <a target="_blank" href="https://www.codechef.com/users/proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codechef.svg" alt="CodeChef"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://leetcode.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg" alt="LeetCode"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://www.interviewbit.com/profile/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/interviewbit.png" alt="InterviewBit" width="40px"></a> &nbsp;&nbsp;
-<a target="_blank" href="https://www.figma.com/@proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/figma.svg" alt="Figma"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arrow_forward.svg" alt="Forward Arrow"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg" alt="Postman"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/alacritty.svg" alt="Alacritty"></a> &nbsp;&nbsp;
