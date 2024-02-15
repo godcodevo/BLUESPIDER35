@@ -44,7 +44,7 @@
 
 ## - Find me around the web 🌎
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
+  <a href="ka.tahara.dev@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
   <a target="_blank" href="https://www.linkedin.com/in/tahara-kazuki-8306a32a8/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
   <a target="_blank" href="https://www.instagram.com/pro_x_zima/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima"/></a>
   <a target="_blank" href="https://twitter.com/pro_x_zima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
