@@ -30,9 +30,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/nodejs.svg" alt="Node.js"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/react.svg" alt="React"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg" alt="Google Colab"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arrow_back.svg" alt="Back Arrow"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://www.qwiklabs.com/public_profiles/8ce32532-ca12-4a89-aed0-99c9316cae73"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cloud.svg" alt="Google Cloud"></a> &nbsp;&nbsp;
-<a target="_blank" href="https://codepen.io/proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codepen.svg" alt="CodePen"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://www.hackerrank.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/hackerrank.svg" alt="Hackerrank"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://leetcode.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg" alt="LeetCode"></a> &nbsp;&nbsp;
 <a target="_blank" href="https://www.interviewbit.com/profile/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/interviewbit.png" alt="InterviewBit" width="40px"></a> &nbsp;&nbsp;
