@@ -53,5 +53,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PROxZIMA&label=Profile+Views&color=282A36" alt="PROxZIMA" />
 </p>
-
-<p><img align="center" src="https://github.com/Aquarius-blake/Aquarius-blake/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Aquarius Blake" ></p>
