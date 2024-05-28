@@ -40,15 +40,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/neovim.svg" alt="NeoVim"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="Android Studio"></a>
-</p>
-
-## - Find me around the web 🌎
-<p align="center">
-  <a href="ka.tahara.dev@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/tahara-kazuki-8306a32a8/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
-  <a target="_blank" href="https://discordapp.com/user/1144984031323238533"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="PROxZIMA#7272"/></a>
-  <a target="_blank" href="https://t.me/supernova21635"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale"/></a>
-</p>
+</p
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PROxZIMA&label=Profile+Views&color=282A36" alt="PROxZIMA" />
